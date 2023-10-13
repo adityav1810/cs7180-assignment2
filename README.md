@@ -1,8 +1,7 @@
-# cs7180-assignment2
-Homework 2 : Color Constancy 
+# Homework 2 : Color Constancy 
 Authors : Luv Verma and Aditya Varshney
 ----------------------
-
+CS 7180 - Advanced Perception (Fall 2023)
 This repository holds the entire codebase of our submission for Assigment 2.
 Please refer to the pdf file for a full project report summary
 
