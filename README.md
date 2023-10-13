@@ -12,7 +12,7 @@ Instructions to run the code
 1. setup pytorch
 2. Download dataset from https://www2.cs.sfu.ca/~colour/data/shi_gehler/ and unzip it in dataset/images
 4. preprocess the images by running preprocess.py
-5. unzip the trained_model folder to get trained weights for the model with and without attention
+5. unzip the trained_model folder into a new folder name trained_model to get trained weights for the model with and without attention
 6. use the terminal to run the model in train, test or validate mode
 
  train the model
